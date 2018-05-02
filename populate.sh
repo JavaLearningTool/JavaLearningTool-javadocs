@@ -1,0 +1,1 @@
+javadoc -d ./ ../JavaLearningTool-challenges/shared/*.java
